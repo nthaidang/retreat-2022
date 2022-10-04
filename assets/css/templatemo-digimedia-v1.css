@@ -1628,7 +1628,7 @@ Free Quote
 */
 
 .free-quote {
-  background-image: url(../images/quote-bg.jpg);
+  background-color: #ffefe9;
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -1645,12 +1645,12 @@ Free Quote
 
 .free-quote .section-heading h6,
 .free-quote .section-heading h4 {
-  color: #fff;
+  color: #ff6726;
 }
 
 .free-quote .section-heading .line-dec {
   margin: 0 auto;
-  background-color: #fff;
+  background-color: #ff6726;
 }
 
 .free-quote a button {
@@ -2128,7 +2128,7 @@ Footer Style
 */
 
 footer {
-  background-image: url(../images/footer-bg.jpg);
+  background-color: #ff6726;
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
