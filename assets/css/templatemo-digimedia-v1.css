@@ -1652,32 +1652,16 @@ Free Quote
   z-index: 1;
 }
 
-.free-quote a input {
-  width: 100%;
-  margin-top: 20px;
-  margin-left: 30px;
-  color: #afafaf;
-  font-weight: 400;
-  font-size: 15px;
-  height: 40px;
-  background-color: transparent;
-  border-bottom: 1px solid #eee;
-  border-top: none;
-  border-left: none;
-  border-right: none;
-  position: relative;
-  z-index: 2;
-  outline: none;
-}
 
 .free-quote a button {
   width: 100%;
   height: 80px;
   border-top-right-radius: 40px;
+  border-top-left-radius: 40px;
   border-bottom-right-radius: 40px;
+  border-bottom-left-radius: 40px;
   outline: none;
   border: none;
-  margin-left: 30px;
   background-color: #ff6726;
   font-size: 15px;
   color: #fff;
